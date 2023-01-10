@@ -1,24 +1,19 @@
 # mockjs
 
-## Project setup
-```
-yarn install
+## 创建项目
+
+```shell
+vue create mockjs
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
+## 安装mockjs
+
+```shell
+npm i mockjs -D
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 安装axios
 
-### Lints and fixes files
+```shell
+npm i axios
 ```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
